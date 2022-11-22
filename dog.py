@@ -2,7 +2,7 @@ from Common.Mammal import Mammal
 
 class Dog(Mammal):
 
-    legs = 4
+    legs = 6
     eyes = 2
 
     def __init__(self, name, age, breed) -> None:

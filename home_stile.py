@@ -22,7 +22,7 @@ Historic = House('YES', True)
 
 print(Modern.bio())
 print(Historic.bio())
-
+print(Modern.bio())
 
 # # create object/instance # #
 # Modern = House()
